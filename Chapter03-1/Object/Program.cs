@@ -10,6 +10,9 @@
             object d = "Hello World";
 
             Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(c);
+            Console.WriteLine(d);
         }
     }
 }

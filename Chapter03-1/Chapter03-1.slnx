@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Chapter03-1/Chapter03-1.csproj" />
+  <Project Path="Char/Char.csproj" Id="46563ff5-d30e-4c25-923e-8dd1d63ed0c9" />
+  <Project Path="Floatingpoint/Floatingpoint.csproj" Id="79dfa72c-c6fc-4d98-94b3-169054f5f096" />
+  <Project Path="Overflow/Overflow.csproj" Id="ac0b0827-b9a9-49c2-81e0-7799d9c51990" />
+</Solution>

@@ -3,9 +3,13 @@
   <Project Path="BoxingUnboxing/BoxingUnboxing.csproj" Id="85088dfd-ff17-425b-94db-1b7c7518e4af" />
   <Project Path="Chapter03-1/Chapter03-1.csproj" />
   <Project Path="Char/Char.csproj" Id="46563ff5-d30e-4c25-923e-8dd1d63ed0c9" />
+  <Project Path="Enum/Enum.csproj" Id="a027315a-2fda-4ee2-a336-4ce9c9aa2af4" />
   <Project Path="Floatingpoint/Floatingpoint.csproj" Id="79dfa72c-c6fc-4d98-94b3-169054f5f096" />
   <Project Path="IntegralConversion/IntegralConversion.csproj" Id="0f1abc5a-779a-4bab-8b53-1140e4355b3e" />
+  <Project Path="Nullable/Nullable.csproj" Id="7d79e07b-8bf9-456b-9709-7de76ca1e33a" />
   <Project Path="Object/Object.csproj" Id="9428bd45-d860-41b5-91c1-165ceb682563" />
   <Project Path="Overflow/Overflow.csproj" Id="ac0b0827-b9a9-49c2-81e0-7799d9c51990" />
+  <Project Path="String/String.csproj" Id="998c85a0-e5c8-4fa1-a50d-c4fee19138c9" />
   <Project Path="StringNumberConversion/StringNumberConversion.csproj" Id="85c3a109-c1fd-46a2-a3b3-89d445d1420a" />
+  <Project Path="UsingVar/UsingVar.csproj" Id="00bfd0fa-43ec-4aa3-8fd7-51f353f795eb" />
 </Solution>
